@@ -108,10 +108,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Won Young"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "학생이에요.."
+  location         : "경기도 군포"
   email            :
   links:
     - label: "Email"
